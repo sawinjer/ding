@@ -5,5 +5,5 @@ No arguments, crossplatform, written with rust
 
 ## Example of usage
 ```bash
-brew upgrade; ding
+$: brew upgrade; ding # will play ding wound when finished
 ```
